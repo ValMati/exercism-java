@@ -12,6 +12,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 |----------|--------------------|
 | [Hello World](hello-world/) | The classical introductory exercise. Just say "Hello, World!". |
 | [Cook Your Lasagna](lasagna/) | This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/java/concepts/basics). |
+| [Annalyn's Infiltration](annalyns-infiltration) | While completing Annalyn's Infiltration, you'll learn 1 concept: [Booleans](https://exercism.org/tracks/java/concepts/booleans). |
 
 ## 💬 Open to Feedback
 
