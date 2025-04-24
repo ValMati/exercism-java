@@ -4,7 +4,13 @@ This repository contains my personal Java solutions to coding exercises complete
 
 ## 👤 My Exercism Profile
 
-You can check out my full Exercism profile [here](https://exercism.org/profiles/Valmati).  
+You can check out my full Exercism profile [here](https://exercism.org/profiles/Valmati).
+
+## Exercises
+
+| Exercise | Concepts Practiced |
+|----------|--------------------|
+| [Hello World](hello-world/) | The classical introductory exercise. Just say "Hello, World!". |
 
 ## 💬 Open to Feedback
 
