@@ -8,9 +8,10 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 
 ## Exercises
 
-| Exercise | Concepts Practiced |
+| Exercise | Goals |
 |----------|--------------------|
 | [Hello World](hello-world/) | The classical introductory exercise. Just say "Hello, World!". |
+| [Cook Your Lasagna](lasagna/) | This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/java/concepts/basics). |
 
 ## 💬 Open to Feedback
 
