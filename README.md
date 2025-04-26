@@ -18,6 +18,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Cars, Assemble!](cars_assemble)                | While completing Cars, Assemble!, you'll learn 2 concepts: [If-Else Statements](https://exercism.org/tracks/java/concepts/if-else-statements) and [Numbers](https://exercism.org/tracks/java/concepts/numbers) |
 | [Squeaky Clean](squeaky-clean)                  | While completing Squeaky Clean, you'll learn 1 concept: [Chars](https://exercism.org/tracks/java/concepts/chars)                                                                                               |
 | [Tim from Marketing](tim-fom_marketing)         | While completing Tim from Marketing, you'll learn 1 concept: [Nullability](https://exercism.org/tracks/java/concepts/nullability)                                                                              |
+| [Salary Calculator](salary-calculator)          | While completing Salary Calculator, you'll learn 1 concept: [Ternary Operators](https://exercism.org/tracks/java/concepts/ternary-operators)                                                                   |
 
 ## 💬 Open to Feedback
 
