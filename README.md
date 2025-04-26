@@ -9,12 +9,13 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 
 ## Exercises
 
-| Exercise                                        | Goals                                                                                                                            |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| [Hello World](hello-world/)                     | The classical introductory exercise. Just say "Hello, World!".                                                                   |
-| [Cook Your Lasagna](lasagna/)                   | This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/java/concepts/basics).               |
-| [Annalyn's Infiltration](annalyns-infiltration) | While completing Annalyn's Infiltration, you'll learn 1 concept: [Booleans](https://exercism.org/tracks/java/concepts/booleans). |
-| [Log Levels](log-levels)                        | While completing Log Levels, you'll learn 1 concept: [Strings](https://exercism.org/tracks/java/concepts/strings).               |
+| Exercise                                        | Goals                                                                                                                                                                                                          |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Hello World](hello-world/)                     | The classical introductory exercise. Just say "Hello, World!".                                                                                                                                                 |
+| [Cook Your Lasagna](lasagna/)                   | This learning exercise helped evolve your knowledge of [Basics](https://exercism.org/tracks/java/concepts/basics).                                                                                             |
+| [Annalyn's Infiltration](annalyns-infiltration) | While completing Annalyn's Infiltration, you'll learn 1 concept: [Booleans](https://exercism.org/tracks/java/concepts/booleans).                                                                               |
+| [Log Levels](log-levels)                        | While completing Log Levels, you'll learn 1 concept: [Strings](https://exercism.org/tracks/java/concepts/strings).                                                                                             |
+| [Cars, Assemble!](cars_assemble)                | While completing Cars, Assemble!, you'll learn 2 concepts: [If-Else Statements](https://exercism.org/tracks/java/concepts/if-else-statements) and [Numbers](https://exercism.org/tracks/java/concepts/numbers) |
 
 ## 💬 Open to Feedback
 
