@@ -1,7 +1,7 @@
 # Java Solutions from Exercism
 
 This repository contains my personal Java solutions to coding exercises completed on [Exercism](https://exercism.org/),
-a platform that helps you improve your programming skills through hands-on practice and mentor feedback.
+a platform that helps you improve your programming skills through hands-on exercises.
 
 ## 👤 My Exercism Profile
 
@@ -17,6 +17,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Log Levels](log-levels)                        | While completing Log Levels, you'll learn 1 concept: [Strings](https://exercism.org/tracks/java/concepts/strings).                                                                                             |
 | [Cars, Assemble!](cars_assemble)                | While completing Cars, Assemble!, you'll learn 2 concepts: [If-Else Statements](https://exercism.org/tracks/java/concepts/if-else-statements) and [Numbers](https://exercism.org/tracks/java/concepts/numbers) |
 | [Squeaky Clean](squeaky-clean)                  | While completing Squeaky Clean, you'll learn 1 concept: [Chars](https://exercism.org/tracks/java/concepts/chars)                                                                                               |
+| [Tim from Marketing](tim-fom_marketing)         | While completing Tim from Marketing, you'll learn 1 concept: [Nullability](https://exercism.org/tracks/java/concepts/nullability)                                                                              |
 
 ## 💬 Open to Feedback
 
