@@ -21,6 +21,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Salary Calculator](salary-calculator)          | While completing Salary Calculator, you'll learn 1 concept: [Ternary Operators](https://exercism.org/tracks/java/concepts/ternary-operators)                                                                                                                       |
 | [Bird Watcher](bird-watcher)                    | While completing Bird Watcher, you'll learn 3 concepts: [Arrays](https://exercism.org/tracks/java/concepts/arrays), [For-Each Loops](https://exercism.org/tracks/java/concepts/foreach-loops) and [For Loops](https://exercism.org/tracks/java/concepts/for-loops) |
 | [Jedlik's Toy Car](jedliks-toy-car)             | While completing Jedlik's Toy Car, you'll learn 1 concept: [Classes](https://exercism.org/tracks/java/concepts/classes)                                                                                                                                            |
+| [Booking Up For Beauty](booking-up-for-beauty)  | While completing Booking Up For Beauty, you'll learn 1 concept: [Date-Time](https://exercism.org/tracks/java/concepts/datetime)                                                                                                                                    |
 
 ## 💬 Open to Feedback
 
