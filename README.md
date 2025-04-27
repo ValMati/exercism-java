@@ -24,6 +24,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Booking Up For Beauty](booking-up-for-beauty)   | While completing Booking Up For Beauty, you'll learn 1 concept: [Date-Time](https://exercism.org/tracks/java/concepts/datetime)                                                                                                                                    |
 | [Secrets](secrets)                               | While completing Secrets, you'll learn 1 concept: [Bit Manipulation](https://exercism.org/tracks/java/concepts/bit-manipulation)                                                                                                                                   |
 | [Football Match Reports](football-match-reports) | While completing Football Match Reports, you'll learn 1 concept: [Switch Statements](https://exercism.org/tracks/java/concepts/switch-statement)                                                                                                                   | 
+| [Captain's Log](captains-log)                    | While completing Captain's Log, you'll learn 1 concept: [Randomness](https://exercism.org/tracks/java/concepts/randomness)                                                                                                                                         |
 
 ## 💬 Open to Feedback
 
