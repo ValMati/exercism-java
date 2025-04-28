@@ -25,6 +25,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Secrets](secrets)                               | While completing Secrets, you'll learn 1 concept: [Bit Manipulation](https://exercism.org/tracks/java/concepts/bit-manipulation)                                                                                                                                   |
 | [Football Match Reports](football-match-reports) | While completing Football Match Reports, you'll learn 1 concept: [Switch Statements](https://exercism.org/tracks/java/concepts/switch-statement)                                                                                                                   | 
 | [Captain's Log](captains-log)                    | While completing Captain's Log, you'll learn 1 concept: [Randomness](https://exercism.org/tracks/java/concepts/randomness)                                                                                                                                         |
+| [Karl's Languages](karls-languages)              | While completing Karl's Languages, you'll learn 2 concepts: [Lists](https://exercism.org/tracks/java/concepts/lists) and [Generic Types](https://exercism.org/tracks/java/concepts/generic-types)                                                                  |
 
 ## 💬 Open to Feedback
 
