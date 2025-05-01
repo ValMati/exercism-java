@@ -28,6 +28,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Karl's Languages](karls-languages)                                    | While completing Karl's Languages, you'll learn 2 concepts: [Lists](https://exercism.org/tracks/java/concepts/lists) and [Generic Types](https://exercism.org/tracks/java/concepts/generic-types)                                                                  |
 | [Gotta Snatch 'Em All](gotta-snatch-em-all)                            | While completing Gotta Snatch 'Em All, you'll learn 1 concept: [Sets](https://exercism.org/tracks/java/concepts/sets)                                                                                                                                              |
 | [International Calling Connoisseur](international-calling-connoisseur) | While completing International Calling Connoisseur, you'll learn 1 concept: [Maps](https://exercism.org/tracks/java/concepts/maps)                                                                                                                                 |
+| [Need for Speed](need-for-speed)                                       | While completing Need for Speed, you'll learn 1 concept: [Constructors](https://exercism.org/tracks/java/concepts/constructors)                                                                                                                                    |
 
 ## 💬 Open to Feedback
 
