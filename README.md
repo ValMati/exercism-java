@@ -33,6 +33,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [Calculator Conundrum](calculator-conundrum)                           | While completing Calculator Conundrum, you'll learn 1 concept: [Exceptions](https://exercism.org/tracks/java/concepts/exceptions)                                                                                                                                  |
 | [Wizards and Warriors](wizards-and-warriors)                           | While completing Wizards and Warriors, you'll learn 1 concept: [Inheritance](https://exercism.org/tracks/java/concepts/inheritance)                                                                                                                                |
 | [Logs, Logs, Logs!](logs-logs-logs)                                    | While completing Logs, Logs, Logs!, you'll learn 1 concept: [Enums](https://exercism.org/tracks/java/concepts/enums)                                                                                                                                               |
+| [Wizards and Warriors 2](wizards-and-warriors-2)                       | While completing Wizards and Warriors 2, you'll learn 1 concept: [Method Overlaping](https://exercism.org/tracks/java/concepts/method-overloading)                                                                                                                 |
 
 ## 💬 Open to Feedback
 
