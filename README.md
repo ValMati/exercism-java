@@ -30,6 +30,7 @@ You can check out my full Exercism profile [here](https://exercism.org/profiles/
 | [International Calling Connoisseur](international-calling-connoisseur) | While completing International Calling Connoisseur, you'll learn 1 concept: [Maps](https://exercism.org/tracks/java/concepts/maps)                                                                                                                                 |
 | [Need for Speed](need-for-speed)                                       | While completing Need for Speed, you'll learn 1 concept: [Constructors](https://exercism.org/tracks/java/concepts/constructors)                                                                                                                                    |
 | [Remote Control Competition](remote-control-competition)               | While completing Remote Control Competition, you'll learn 1 concept: [Interfaces](https://exercism.org/tracks/java/concepts/interfaces)                                                                                                                            |
+| [Calculator Conundrum](calculator-conundrum)                           | While completing Calculator Conundrum, you'll learn 1 concept: [Exceptions](https://exercism.org/tracks/java/concepts/exceptions)                                                                                                                                  |
 
 ## 💬 Open to Feedback
 
