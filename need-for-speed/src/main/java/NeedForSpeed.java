@@ -30,6 +30,10 @@ class NeedForSpeed {
         distanceDriven += speed;
         battery -= batteryDrain;
     }
+
+    int getRange() {
+        return Math.floorDiv(100, batteryDrain) * speed;
+    }
 }
 
 class RaceTrack {
@@ -40,10 +44,6 @@ class RaceTrack {
     }
 
     public boolean canFinishRace(NeedForSpeed car) {
-        while (!car.batteryDrained() && car.distanceDriven() < distance) {
-            car.drive();
-        }
-
-        return car.distanceDriven() >= distance;
+        return car.getRange() >= distance;
     }
 }
